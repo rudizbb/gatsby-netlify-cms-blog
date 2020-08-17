@@ -11,7 +11,7 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 ## Features
 
 - A simple landing page with blog functionality built with Netlify CMS
-- Editabe Pages: Landing, About, Product, Blog-Collection and Contact page with Netlify Form support
+- Editable Pages: Landing, About, Product, Blog-Collection and Contact page with Netlify Form support
 - Create Blog posts from Netlify CMS
 - Tags: Separate page for posts under each tag
 - Basic directory organization
@@ -50,7 +50,7 @@ $ netlify dev # or ntl dev
 
 This uses the new [Netlify Dev](https://www.netlify.com/products/dev/?utm_source=blog&utm_medium=netlifycms&utm_campaign=devex) CLI feature to serve any functions you have in the `lambda` folder.
 
-To test the CMS locally, you'll need run a production build of the site:
+To test the CMS locally, you'll need to run a production build of the site:
 
 ```
 $ npm run build
