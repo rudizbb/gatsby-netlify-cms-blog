@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: jlengstorf/lwj-netlify-cms
+  repo: rudizbb/gatsby-netlify-cms-blog
   open_authoring: true
   branch: master
   commit_messages:
